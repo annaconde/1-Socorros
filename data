@@ -5,8 +5,8 @@
     "description": "Um corte profundo pode ser causado pelo impacto de qualquer objeto afiado contra a pele, incluindo coisas simples como quinas de paredes ou objetos projetados para o corte como facas.",
     "thumbnail": "https://imgur.com/STxYxYE",
     "symptoms" : [
-      { "key" : "Symptom 1", "description" : "Dor extrema, sangramento e sinais de choque (frio, suor excessivo, calafrios ou palidez)." },
-      { "key" : "Symptom 2", "description" : "presença de gordura (tecido irregular e amarelo), músculos (tecido fibroso e vermelho) ou ossos (superfície rígida e branca)." },
+      { "key" : "1", "description" : "Dor extrema, sangramento e sinais de choque (frio, suor excessivo, calafrios ou palidez)." },
+      { "key" : "2", "description" : "presença de gordura (tecido irregular e amarelo), músculos (tecido fibroso e vermelho) ou ossos (superfície rígida e branca)." },
      ],
     "causes" : [
       { "key" : "Cause 1", "description" : " Contato com objetos afiados" },
@@ -27,10 +27,10 @@
     "description": "As queimaduras químicas acontecem quando um indivíduo entra em contato com qualquer substância que pode causar uma reação com a pele. Essas substâncias podem ser qualquer coisa, desde pimentas fortes até produtos químicos industriais altamente tóxicos.",
     "thumbnail": "https://imgur.com/kmnkX2k",
     "symptoms" : [
-      { "key" : "Symptom 1", "description" : "Pele escurecida ou morta, que se vê principalmente em queimaduras químicas causadas por ácido" },
-      { "key" : "Symptom 2", "description" : "Irritação, vermelhidão ou ardor na área afetada" },
-      { "key" : "Symptom 2", "description" : "Adormecimento ou dor na área afetada" },
-      { "key" : "Symptom 2", "description" : "Uma perda de visão ou alterações na visão se os produtos químicos entrarem em contacto com os seus olhos" }
+      { "key" : "1", "description" : "Pele escurecida ou morta, que se vê principalmente em queimaduras químicas causadas por ácido" },
+      { "key" : "2", "description" : "Irritação, vermelhidão ou ardor na área afetada" },
+      { "key" : "3", "description" : "Adormecimento ou dor na área afetada" },
+      { "key" : "4", "description" : "Uma perda de visão ou alterações na visão se os produtos químicos entrarem em contacto com os seus olhos" }
     ],
     "causes" : [
       { "key" : "Cause 1", "description" : " Ácidos" },
@@ -53,14 +53,15 @@
     "description": "Definida como sendo uma lesão traumática que acontece na pele e é ocasionada por algum agente externo..",
     "thumbnail": "https://imgur.com/OGPkvBn",
     "symptoms" : [
-      { "key" : "Symptom 1", "description" : "Vermelhidão na pele (que torna-se branca com efeito da pressão)" },
-      { "key" : "Symptom 2", "description" : "Inflamação e desidratação leve" },
-      { "key" : "Symptom 2", "description" : "febre e dor" }
+      { "key" : "1", "description" : "Vermelhidão na pele (que torna-se branca com efeito da pressão)" },
+      { "key" : "2", "description" : "Inflamação e desidratação leve" },
+      { "key" : "3", "description" : "febre e dor" }
     ],
     "causes" : [
       { "key" : "Cause 1", "description" : "Uma exposição ou contato com uma fonte de calor." },
       { "key" : "Cause 2", "description" : "Contato com uma fonte fria." }
     ],
+    "key": "queimadurastermicas",
     "steps": [
       {"step": "Primeiro o local deve ser lavado com água, deixando água fria ou freca por 10 a 15 min.", "imagem": "https://imgur.com/XsfQwQK"},
       {"step": "segundo, cubra o local com uma faixa esterilizada e retirando todos os acessórios.", "imagem": "https://imgur.com/qv6kunt"},
